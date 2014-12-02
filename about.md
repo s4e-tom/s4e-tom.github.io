@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+#About me
+I've been interested in computer sciences since middle school and have been studying them for four years now, at Université de Bordeaux.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+I hope that in the future I will be able to work on videogames. A portfolio will soon be displayed on this website.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tom.solacroup@u-bordeaux.fr](mailto:tom.solacroup@u-bordeaux.fr)
