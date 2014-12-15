@@ -269,6 +269,8 @@ nav {
 }
 
 .wrapper-footer {
+  position:absolute;
+  bottom:0;
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
@@ -276,8 +278,6 @@ nav {
 }
 
 footer {
-  position:absolute;
-  bottom:0;
   height: 60px;
   padding: 20px 0;
   text-align: center;
