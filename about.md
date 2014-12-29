@@ -12,7 +12,7 @@ I hope that in the future I will be able to work on videogames. I'm currently a 
 * __Favorite games:__ Super Smash Bros. and Guilty Gear  
 * __Favorite book:__ Fahrenheit 451
 * __Hobbies:__ papercraft and badminton  
-* __Other stuff:__ I act in a theater company.  
+* __Other stuff:__ I act in a theater company  
 
 ### Contact me
 
