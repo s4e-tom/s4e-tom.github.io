@@ -16,4 +16,4 @@ I hope that in the future I will be able to work on videogames. I'm currently a 
 
 ### Contact me
 
-[tom.solacroup @ gmail.com](mailto:tom.solacroup @ u-bordeaux.fr)
+[tom.solacroup @ gmail.com](mailto:tom.solacroup @ gmail.com)
